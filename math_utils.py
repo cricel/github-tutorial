@@ -2,7 +2,7 @@
 
 def add(a, bb):
     """Return the sum of two numbers."""
-    return a + bb + a
+    return a + a
 
 def multiply(a, b):
     """Return the product of two numbers."""
