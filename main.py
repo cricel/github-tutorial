@@ -6,6 +6,10 @@ import math_utils
 result_sum = math_utils.add(5, 3)
 result_product = math_utils.multiply(5, 3)
 
+total = result_sum + result_product
+
+print("hello", total)
+
 print("Sum:", result_sum)
 print("Product:", result_product)
 
