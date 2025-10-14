@@ -1,8 +1,8 @@
 # math_utils.py
 
-def add(a, b):
+def add(a, bb):
     """Return the sum of two numbers."""
-    return a + bb
+    return a + bb + a
 
 def multiply(a, b):
     """Return the product of two numbers."""
